@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "clonedclinic",
+			"path": "."
+		},
+		{
+			"name": "clinicme.github.io",
+			"path": "../Clinic care system/clinicme.github.io"
+		}
+	],
+	"settings": {}
+}
